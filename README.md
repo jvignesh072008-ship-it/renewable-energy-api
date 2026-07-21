@@ -178,17 +178,17 @@ Routes requests through to the corresponding backend service (start the four ser
 
 ### Postman Screenshots
 
-![Create Solar Panel](docs/postman/solar-panels-create.png)
-![Solar Generation Record](docs/postman/solar-panels-generation.png)
-![Create Wind Turbine](docs/postman/wind-turbines-create.png)
-![Wind Generation Record](docs/postman/wind-turbines-generation.png)
-![Create Battery](docs/postman/batteries-create.png)
-![Battery Charge](docs/postman/battery-charge.png)
-![Battery Discharge](docs/postman/battery-discharge.png)
-![Distribution Balance](docs/postman/distribution-balance.png)
-![Distribution Balance - Unmet Demand](docs/postman/distribution-balance-unmet.png)
+<img width="1920" height="1080" alt="Screenshot 2026-07-21 092034" src="https://github.com/user-attachments/assets/8ee3a3bd-cef7-4188-95cf-813e6eb8cff8" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-21 092122" src="https://github.com/user-attachments/assets/59d20296-429b-45b2-b0bb-46054860b166" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-21 092151" src="https://github.com/user-attachments/assets/de19e065-0d67-4093-971f-d99bde88d1f0" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-21 092234" src="https://github.com/user-attachments/assets/1c2b2807-8644-47ab-98eb-999dffcc076f" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-21 092356" src="https://github.com/user-attachments/assets/b207fbd4-f7f0-44ec-a44e-266b37004de1" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-21 092441" src="https://github.com/user-attachments/assets/38efe194-5a14-4578-8403-2478425e5618" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-21 092503" src="https://github.com/user-attachments/assets/2ebf1750-b598-4cde-b5be-444335d12f0c" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-21 092607" src="https://github.com/user-attachments/assets/9a746baa-a102-4d6e-abfa-90e97aa7be40" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-21 092633" src="https://github.com/user-attachments/assets/d522a01b-984c-4865-9c35-f43a47f0fe2e" />
 
-Screenshot files live under `docs/postman/` in the repository.
+Screenshot files live under "postman" in the repository.
 
 ## Author
 
